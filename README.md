@@ -1,9 +1,5 @@
 # Video Rental Store CRM Smart Contract
 
-This is a simple Solidity smart contract for managing a video rental store customer relationship management (CRM) system.
-
-# Video Rental Store CRM Smart Contract
-
 This is a simple Solidity smart contract for managing a video rental store customer relationship management (CRM) system. It allows you to add users, check user details, and withdraw user credit.
 
 ## Contract Overview
